@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jawahar Rajendran
 - 👀 I’m interested in Java Spring Boot Application Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedin : https://www.linkedin.com/in/jawahar-rajendran-47411b1ab/
+- 📫 How to reach me on Linkedin : https://www.linkedin.com/in/jawahar-rajendran-47411b1ab/
 - 😄 Pronouns: He/Him
 
 <!---
